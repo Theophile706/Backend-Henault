@@ -100,7 +100,7 @@ function formatQuote(d: QuoteInput) {
     `E-mail : ${d.email}`,
     `Ville ou Code Postal : ${d.city}`,
     "",
-    "Fabricant : Hénault Escalier - 9 bis rue du Bout de la ville, 41200 Romorantin",
+    "Fabricant : Hénault Escalier - 9 bis rue du Bout de la ville, 41240 Binas",
   ].join("\n");
 }
 
@@ -120,7 +120,7 @@ function formatAppointment(d: AppointmentInput) {
     `E-mail : ${d.email}`,
     "",
     "Horaires atelier : Lundi au vendredi, 9h00-12h30 et 13h30-18h00",
-    "Hénault Escalier - 9 bis rue du Bout de la ville, 41200 Romorantin",
+    "Hénault Escalier - 9 bis rue du Bout de la ville, 41240 Binas",
   ].join("\n");
 }
 
